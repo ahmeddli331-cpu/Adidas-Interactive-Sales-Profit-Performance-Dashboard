@@ -1,3 +1,4 @@
+<img width="1830" height="676" alt="Screenshot 2026-06-05 021509" src="https://github.com/user-attachments/assets/b7ab3591-2a9b-44f9-b096-1a48c471bcb3" />
 # Adidas US Interactive Sales & Profit Performance Dashboard
 
 A comprehensive, interactive business intelligence dashboard built in Microsoft Excel to monitor, analyze, and optimize Adidas sales performance, profitability trends, and regional distribution across a multi-year timeline (2023–2025). 
